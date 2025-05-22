@@ -1,0 +1,27 @@
+/* ---- 💫 https://github.com/JaKooLit 💫 ---- */
+/* Main Config - For Keybinds generation */
+
+@import "~/.config/rofi/master-config.rasi"  
+
+/* ---- Entry ---- */
+entry {
+  font: "Maple Mono NF CN SemiBold 12";
+  width: 80%;
+  placeholder: " 🧮 Search Keybinds      ☣️ NOTE ☣️: Clicking with Mouse or Pressing ENTER will have NO function";
+}
+
+/* ---- Listview ---- */
+listview {
+  columns: 1;
+}
+
+window {
+  width: 80%;
+  height: 80%;
+}
+
+element-text {
+  font: "Maple Mono NF CN SemiBold 12";
+  vertical-align: 0.5;
+  horizontal-align: 0.5;
+}

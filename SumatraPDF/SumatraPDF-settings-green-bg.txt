@@ -1,0 +1,3690 @@
+﻿# For documentation, see https://www.sumatrapdfreader.org/settings/settings3-5-1.html
+Theme = Light
+FixedPageUI [
+	TextColor = #000000
+	BackgroundColor = #C7EDCC
+	SelectionColor = #aa2828
+	WindowMargin = 2 4 2 4
+	PageSpacing = 4 4
+	GradientColors = #C7EDCC
+	InvertColors = false
+	HideScrollbars = false
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = false
+]
+
+SelectionHandlers [
+]
+ExternalViewers [
+]
+
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+Annotations [
+	HighlightColor = #ffff00
+	UnderlineColor = #00ff00
+	SquigglyColor = #ff00ff
+	StrikeOutColor = #ff0000
+	FreeTextColor = 
+	FreeTextSize = 12
+	FreeTextBorderWidth = 1
+	TextIconColor = 
+	TextIconType = 
+	DefaultAuthor = 
+]
+
+RememberOpenedFiles = true
+RememberStatePerDocument = true
+RestoreSession = true
+UiLanguage = cn
+EnableTeXEnhancements = false
+DefaultDisplayMode = automatic
+DefaultZoom = fit page
+Shortcuts [
+]
+EscToExit = false
+ReuseInstance = false
+ReloadModifiedDocuments = true
+
+MainWindowBackground = #80fff200
+FullPathInTitle = false
+ShowMenubar = true
+ShowToolbar = true
+ShowFavorites = false
+ShowToc = true
+NoHomeTab = false
+TocDy = 0
+SidebarDx = 593
+ToolbarSize = 18
+TabWidth = 300
+TreeFontSize = 0
+TreeFontWeightOffset = 0
+TreeFontName = automatic
+SmoothScroll = false
+ShowStartPage = true
+CheckForUpdates = true
+WindowState = 2
+WindowPos = 1568 11 1316 1704
+UseTabs = true
+UseSysColors = false
+CustomScreenDPI = 0
+
+FileStates [
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\Deep Learning\Diffusion\[2024]Tutorial on Diffusion Models for Imaging and Vision.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 9
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 35.7189 363.094
+		PageNo = 2
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 11 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\王珊-数据库系统概论（第6版）\数据库系统概论 第6版 王珊 杜小勇 陈红 .pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 7
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 58.3357
+		PageNo = 100
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 11 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Compilor\(global edition) Compilers Principles, Techniques, and Tools (A.V. Aho, Monica S Lam, R. Sethi etc.).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 8
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 69.2814 126.094
+		PageNo = 229
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 11 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Compilor\CS143\handouts\PA3.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 10
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 193.287
+		PageNo = 4
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 11 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = \\wsl.localhost\Ubuntu-22.04\home\wcy_ubuntu\Projects\Architecture\CSAPP-Lab\data-lab\datalab.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 9
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 702.45
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 11 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Organization&Architecture\Computer Systems A Programmer’s Perspective (Randal E. Bryant etc.) (Z-Library).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 9
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 202.125
+		PageNo = 38
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 11 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Compilor\Engineering A Compiler 2nd Edition by Cooper and Torczon.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 9
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 158.438 100.438
+		PageNo = 129
+		Zoom = 300
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 11 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Sentiment\SEEK.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 12
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 50.3439 310.031
+		PageNo = 1
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 11 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Graphics\fundamentals-of-computer-graphics-fourth-edition.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 12
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 456.625
+		PageNo = 155
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 11 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\English\秒懂介词-波波老师.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 11 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\2023\2023\技术报告.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 493.625
+		PageNo = 26
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 11 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\浙江大学《概率论与数理统计》第5版 课后答案.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 3
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 498.125
+		PageNo = 2
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 11 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\Fav\Temp\f3fe1481\res\94b04d9f1de29f94c7bc65a0002876b1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 497.625
+		PageNo = 4
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 11 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\Fav\Temp\3d9cce07\res\0165b695c7d614dbcbd1b83784383b6d.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 11 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\【精英2赛区】2024DIGIX大赛精英2赛区创新赛&应用赛获奖名单公示-发布版-241101.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 430.324
+		PageNo = 15
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 11 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\ros车\ros车\配置教程\311-SLAM简介.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 11 1316 1704
+		ShowToc = true
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 1
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\2023\2023\CRAIC2022线上规则.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 435.124
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 11 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\2023\2023\第25届中国机器人及人工智能大赛江西赛区报名通知.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 170.219
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 11 1316 1704
+		ShowToc = true
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\File\2024-10\校普法办〔2024〕3号：关于组织全校学生参加“宪法卫士”2024年行动计划的通知(1).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\content_1730097529493.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\File\2024-10\学生指南.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 648.45
+		PageNo = 7
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\File\2024-10\管理员指南.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 51.9379
+		PageNo = 1
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = \\wsl.localhost\Ubuntu-22.04\home\wcy_ubuntu\Projects\Architecture\CSAPP-Lab\datalab\datalab.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 114.375
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\第六版\第6版PPT第2章关系数据库.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 465.938
+		PageNo = 11
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\WL第3章 词法分析.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 85.0741
+		PageNo = 75
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\PL\C&CPP\A Tour of C++ (2nd Edition) (C++ In-Depth Series).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 92.3753
+		PageNo = 95
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\slides-export.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 91.8255
+		PageNo = 10
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Projects\比赛项目\“国货当潮，蜂花正茂”——消费者对蜂花品牌洗护产品的消费现状及消费意愿的调查研究\“国货当潮，蜂花正茂”——消费者对蜂花品牌洗护产品的消费现状及消费意愿的调查研究新\“国货当潮，蜂花正茂”——消费者对蜂花品牌洗护产品的消费现状及消费意愿的调查研究 +报告(1).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 364.625
+		PageNo = 27
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\PL\C&CPP\Learn C the Hard Way.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 37.9689 8.53144
+		PageNo = 202
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\串词.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\CV\Diffusion\NeurIPS-2023-diffusion-self-guidance-for-controllable-image-generation-Paper-Conference.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Books\教材\Bishop-Pattern-Recognition-and-Machine-Learning-2006\Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 5 25 48 67 94 142 153 177 190 235 252
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Diffusion-for-NLP\LREC-COLING2024 DiffusionDialog A Diffusion Model for Diverse Dialog Generation with Latent Space.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 369.898
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Downloads\关于公布第六届全球校园人工智能算法精英大赛赛区及赛题联系方式的通知-240913.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 186.15
+		PageNo = 4
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = true
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = \\wsl.localhost\Ubuntu-22.04\home\wcy_ubuntu\Softwares\flex-2.5.35\doc\flex.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 342.121
+		PageNo = 11
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Compilor\TigerBook Modern Compiler Implementation (MCI) in C.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 512.625
+		PageNo = 33
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = true
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\CV\Diffusion\WACV2024 Data Augmentation for Object Detection via Controllable Diffusion Models.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 36.2814 -1
+		PageNo = 1
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\Deep Learning\Diffusion\[2024]The Emergence of Reproducibility and Generalizability in Diffusion Models.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = true
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Sentiment\MISC.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Diffusion-for-NLP\2024 ReflectDiffuReflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 566.75
+		PageNo = 2
+		Zoom = 75
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Diffusion-for-NLP\Text Diffusion Models\Suevey\PeerJ2024 Diffusion models in text generation a survey.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 1
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Compilor\CS143\handouts\PA2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -0.0935625 819.281
+		PageNo = 1
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Compilor\CS143\handouts\cool-manual.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 697.321
+		PageNo = 15
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Database\Database System Concepts.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 13.1252
+		PageNo = 66
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\File\2024-10\江西师范大学2025届优秀本科毕业生获得推荐免试攻读硕士研究生资格名单公示.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 620.813
+		PageNo = 10
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Sentiment\CAB.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 42.5626 123.438
+		PageNo = 3
+		Zoom = 300
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Sentiment\MultiESC.md.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 14.1564 36.2814
+		PageNo = 3
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Sentiment\WASSA2023 How to Control Sentiment in Text Generation A Survey of the State-of-the-Art in Sentiment-Control Techniques.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 839.742
+		PageNo = 5
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Diffusion-for-NLP\Text Diffusion Models\Suevey\2023 A Survey of Diffusion Models in Natural Language Processing.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 247.469 618.094
+		PageNo = 7
+		Zoom = 600
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Sentiment\软件学报2024 情感对话技术综述.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 172.298
+		PageNo = 25
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Diffusion-for-NLP\Text Diffusion Models\Non-Autoregressive\IJCAI2023 Diffusion Models for Non-autoregressive Text Generation A Survey.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = true
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Organization&Architecture\Digital Design and Computer Architecture RISC-V, Edition Sarah L. Harris and David Harris\Digital Design and Computer Architecture RISC-V Edition.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 77.5503
+		PageNo = 187
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 162
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Books\教材\Deep Learning-Adaptive Computation and Machine Learning.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 508.95
+		PageNo = 650
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = true
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 157
+	]
+	[
+		FilePath = D:\Learning-Materials\Mathematics\Information-Theory\Elements of Information Theory (Thomas M. Cover, Joy A. Thomas) (Z-Library).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 458.25
+		PageNo = 40
+		Zoom = 75
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Diffusion-for-NLP\NAACL2024 Empowering Diffusion Models on the Embedding Space for Text Generation.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 562.24
+		PageNo = 8
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Diffusion-for-NLP\ACL2024 DiffuCOMET Contextual Commonsense Knowledge Diffusion.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 19.5939 537.469
+		PageNo = 8
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Downloads\1_41号关于开展2023-2024学年综合素质考评和奖学金、“三好学生”评定工作的通知.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 27.0939 646.406
+		PageNo = 1
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\WCY\比赛获奖\TJJM20240315035221 _人工智能时代下消费者对蜂花品牌洗护产品的消费现状及消费意愿的统计研究_第十届统计建模大赛省赛证书0.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Database\learn-sql-the-hard-way.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 214.125
+		PageNo = 12
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Organization&Architecture\Lecture\Digital Design and Computer Architecture\DDCA RISC-V\reading\Hamming-You and Your Research.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Organization&Architecture\计组实验教材.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = true
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Organization&Architecture\Lecture\Digital Design and Computer Architecture\ETH 252-0028-00L\Readings\Introduction to Computing Systems\01_chapter_1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 484.466
+		PageNo = 3
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Text Generation\Open Domain DIalogue\LREC-COLING2024 DiffusionDialog A Diffusion Model for Diverse Dialog Generation with Latent Space.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 62.3439 156.469
+		PageNo = 3
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Diffusion\ACL2024 DiffuCOMET Contextual Commonsense Knowledge Diffusion.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 194.126
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\Fav\Temp\7a51f01d\res\94b04d9f1de29f94c7bc65a0002876b1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 434.625
+		PageNo = 4
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\贵阳攻略\贵阳攻略.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\File\2024-09\加分质疑(1).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 328.75
+		PageNo = 5
+		Zoom = 75
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\File\2024-09\加分条质疑回复(3).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\File\2024-09\加分条质疑回复.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\加分质疑.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 449.75
+		PageNo = 1
+		Zoom = 75
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\NLP Final Project A Dialogue System.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 33.6564 397.031
+		PageNo = 3
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\Fav\Temp\a27f7543\res\94b04d9f1de29f94c7bc65a0002876b1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\File\2024-09\11ab1b5a6c9cf233e65fe04c80eb73b6_941b7af5cddbe0f2070000c1e5e61ad2_8.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 283.95
+		PageNo = 3
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\File\2024-09\扫描文件_QQ浏览器_20240914(1).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 17.7184 109.401
+		PageNo = 1
+		Zoom = 66.67
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Database\CMU14-445 Fall 2023\slides&notes\03-storage1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 283.95
+		PageNo = 63
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Text Generation\Open Domain DIalogue\datasets\ICJNLP2017 DailyDialog A Manually Labelled Multi-turn Dialogue Dataset.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 33.0361
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Text Generation\Text Diffusion Models\Suevey\PeerJ2024 Diffusion models in text generation a survey.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 784.624
+		PageNo = 5
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 1
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Text Generation\Open Domain QA\cs.CL2024 RAG-QA Arena Evaluating Domain Robustness for Long-form Retrieval Augmented Question Answering.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 10.6503
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = true
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Text Generation\Open Domain QA\EMNLP2023 IfQA A Dataset for Open-domain Question Answering under Counterfactual Presuppositions.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 119.454
+		PageNo = 8
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Books\教材\机器学习 周志华.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 426.293
+		PageNo = 92
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1246 166 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\CoT-zhuosheng.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 277.421
+		PageNo = 5
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1246 166 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Compilor\CS143\handouts\cool-tour.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 462.375
+		PageNo = 4
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1246 166 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Projects\数学建模\资料\数模论文示范1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 621.376
+		PageNo = 24
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1246 166 1316 1704
+		ShowToc = true
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\论文.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 369.563
+		PageNo = 14
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1246 166 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Downloads\2024年9月赛区赛前工作会议-江西师范大学 - 副本.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 148.034
+		PageNo = 20
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1246 166 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Downloads\2024江西师范大学整理-数学建模竞赛论文格式规范.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 359.55
+		PageNo = 2
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1246 166 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\B题16.16.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 390.938
+		PageNo = 15
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1246 166 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\Mathematics\Probability\Introduction to Probability, 2nd Edition (Dimitri P. Bertsekas, John N. Tsitsiklis) (Z-Library).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 101.375
+		PageNo = 470
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1246 166 1316 1704
+		ShowToc = true
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\Mathematics\Analysis\BUKU-REAL-ANALYSIS.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 630.679
+		PageNo = 332
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1246 166 1316 1704
+		ShowToc = true
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\Mathematics\Analysis\Analysis I (Herbert Amann etc.) .pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 44.3854
+		PageNo = 8
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1246 166 1316 1704
+		ShowToc = true
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\12.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 86.406
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1246 166 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\CUMCM2024Problems\B题\B题.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 161.626
+		PageNo = 2
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1246 166 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\CUMCM2024Problems\C题\C题.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 340.35
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 833 143 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\CUMCM2024Problems\A题\A题.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 12.0618
+		PageNo = 3
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 833 143 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Compilor\CS143\lectures\lec03.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 109.407
+		PageNo = 4
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 833 143 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Compilor\CS143\lectures\lec04.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 82.5866
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 833 143 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\File\2024-09\爱生活 创业计划书.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 833 143 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Compilor\CS143\lectures\lec05.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 833 143 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\File\2024-09\承诺书.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 327.875
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 833 143 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Graphics\Learn OpenGL.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 113.271
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = true
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Networking\HTTP权威指南（中文版）.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = true
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Information-Theory\Elements of Information Theory (Thomas M. Cover, Joy A. Thomas) (Z-Library).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 250.879
+		PageNo = 9
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Compilor\CS143\lectures\lec09.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Compilor\CS143\lectures\lec02.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 260.93
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Books\教材\The Elements of Statistical Learning Data Mining, Inference, and Prediction (2nd edition) (12print 2017) (Trevor Hastie, Robert Tibshirani etc.) .pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 67.7477
+		PageNo = 252
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = true
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Books\教材\An Introduction to Statistical Learning with Applications in Python (Gareth James, Daniela Witten, Trevor Hastie etc.).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 39.4689 615.656
+		PageNo = 516
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = true
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Books\教材\pumpkin_book.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 281.135
+		PageNo = 21
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = true
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Books\教材\ML Machine Learning-A Probabilistic Perspective.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 173.375
+		PageNo = 211
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = false
+		SidebarDx = 651
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Books\教材\机器学习方法.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 545.645
+		PageNo = 42
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = true
+		SidebarDx = 626
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\ML Machine Learning-A Probabilistic Perspective.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 25
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = true
+		SidebarDx = 626
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Books\教材\机器学习 Machine Learning (Chinese Edition) (Zhou Zhihua 周志华) (Z-Library).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 179.063
+		PageNo = 39
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = true
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\机器学习 Machine Learning (Chinese Edition) (Zhou Zhihua 周志华) (Z-Library).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 368.375
+		PageNo = 17
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = true
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\Mathematics\Discrete Mathematics\Book\Discrete-Mathematics-and-Its-Applications.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 908
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = true
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\Mathematics\Analysis\Vector Calculus, Linear Algebra, and Differential Forms A Unified Approach (John Hubbard Barbara Burke Hubbard) (Z-Library).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 569.625
+		PageNo = 560
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = true
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\Mathematics\Analysis\student-solution-manual-to-accompany-the-5th-edition-of-vector-calculus-linear-algebra-and-differential-forms-a-unified-approach-5nbsped-9780971576698_compress.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = true
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\Mathematics\Analysis\微积分\Calculus and its applications 10th.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = true
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\Mathematics\Analysis\微积分\Multivariable calculus with applications (Lax, Peter D. Terrell, Maria Shea) (Z-Library).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 44.9376 75.1876
+		PageNo = 9
+		Zoom = 300
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = true
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\pumpkin_book.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 502.25
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = true
+		SidebarDx = 643
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Books\教材\Bishop-Pattern-Recognition-and-Machine-Learning-2006\supplementary material\9780387310732-p1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 614.75
+		PageNo = 3
+		Zoom = 75
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = false
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Books\教材\Ethem Alpaydin-Introduction to Machine Learning-The MIT Press (2014).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 403.688
+		PageNo = 8
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = true
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\File\2024-08\关于举办2024年人教版义务教育新教材网络培训的函.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 229.95
+		PageNo = 3
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = false
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Compilor\(old edition) Compilers Principles Techniques and Tools .pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 476.139
+		PageNo = 24
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = true
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\Mathematics\Analysis\微积分\Calculus (James Stewart) (Z-Library).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 118.125
+		PageNo = 1140
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = true
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Compilor\CS143\lectures\lec01.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 23.0591
+		PageNo = 18
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = false
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\Mathematics\Algebra\Interactive Linear Algebra.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 88.0911
+		PageNo = 84
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = false
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\Mathematics\Algebra\《线性代数及其应用第5版》高清英文PDF+David C Lay.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 96.5076
+		PageNo = 77
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = false
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Compilor\CS143\handouts\PA1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 442.472
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = false
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Projects\比赛项目\数字媒体\图书馆机器人\图书馆机器人\作品说明材料（文字）.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 111.75
+		PageNo = 28
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = false
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Projects\比赛项目\数字媒体\作品说明.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 31.3752
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = false
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Data Structure and Algorithm\Lectures\MIT6.046J-Design-and-Analysis-of-Algorithms-spring-2015\Lecture Notes\Lecture_1_Notes.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = false
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Database\CMU14-445 Fall 2023\slides&notes\01-relationalmodel.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = -1 -1
+		PageNo = 61
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 782 0 1316 1704
+		ShowToc = false
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Database\CMU14-445 Fall 2023\slides&notes\00-introduction.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 782 0 1316 1704
+		ShowToc = false
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Database\CMU14-445 Fall 2023\slides&notes\01-relationalmodel-notes.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 51.2814 711.469
+		PageNo = 4
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 782 0 1316 1704
+		ShowToc = false
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Database\CMU14-445 Fall 2023\slides&notes\08-trees-notes.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 782 0 1316 1704
+		ShowToc = true
+		SidebarDx = 720
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Database\CMU14-445 Fall 2023\slides&notes\08-trees.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 782 0 1316 1704
+		ShowToc = true
+		SidebarDx = 720
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Database\CMU14-445 Fall 2023\slides&notes\07-hashtables-notes.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 782 0 1316 1704
+		ShowToc = true
+		SidebarDx = 720
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Database\CMU14-445 Fall 2023\slides&notes\07-hashtables.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 782 0 1316 1704
+		ShowToc = true
+		SidebarDx = 720
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Database\CMU14-445 Fall 2023\slides&notes\06-bufferpool-notes.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 782 0 1316 1704
+		ShowToc = true
+		SidebarDx = 720
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Database\CMU14-445 Fall 2023\slides&notes\06-bufferpool.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 782 0 1316 1704
+		ShowToc = true
+		SidebarDx = 720
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Database\CMU14-445 Fall 2023\slides&notes\05-storage3-notes.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 782 0 1316 1704
+		ShowToc = true
+		SidebarDx = 720
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Database\CMU14-445 Fall 2023\slides&notes\05-storage3.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 782 0 1316 1704
+		ShowToc = true
+		SidebarDx = 720
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Database\CMU14-445 Fall 2023\slides&notes\04-storage2-notes.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 782 0 1316 1704
+		ShowToc = true
+		SidebarDx = 720
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Database\CMU14-445 Fall 2023\slides&notes\04-storage2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 782 0 1316 1704
+		ShowToc = true
+		SidebarDx = 720
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Database\CMU14-445 Fall 2023\slides&notes\03-storage1-notes.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 782 0 1316 1704
+		ShowToc = true
+		SidebarDx = 720
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Database\CMU14-445 Fall 2023\slides&notes\02-modernsql-notes.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 782 0 1316 1704
+		ShowToc = true
+		SidebarDx = 720
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Database\CMU14-445 Fall 2023\slides&notes\02-modernsql.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 782 0 1316 1704
+		ShowToc = true
+		SidebarDx = 720
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Compilor\CS143\assignments\Programming_Assignment_5.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 838.693
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = false
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Compilor\CS143\assignments\Programming_Assignment_1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 442.472
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = false
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Data Structure and Algorithm\Lecture\6.042j-fall-2010\static_resources\2c8325cfcd72647ed39997c314411367_MIT6_042JF10_assn10.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 782 0 1316 1704
+		ShowToc = true
+		SidebarDx = 720
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\CS\Data Structure and Algorithm\Lecture\MIT6.046J Design and Analysis of Algorithms\Lecture Notes\Lecture_1_Notes.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 496.307
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 782 0 1316 1704
+		ShowToc = false
+		SidebarDx = 720
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Downloads\有机化学（第六版） (天津大学有机化学教研室, 赵温涛, 郑艳, 王光伟, 马宁, 黄跟平) (Z-Library).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 150.718
+		PageNo = 67
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1964 148 1316 1704
+		ShowToc = true
+		SidebarDx = 467
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\项目申报书.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 489.153
+		PageNo = 8
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\【算法创新赛】人工智能+新文科—报名表.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\作业.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\slides.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 318.376
+		PageNo = 9
+		Zoom = 50
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\123.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 75
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1568 125 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\VirtualBox\doc\UserManual.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 682.167
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = true
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\Fav\Temp\f97affa6\res\a7ce3daf92aaa86574253526428991df.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\Fav\Temp\f97affa6\res\240a9a77a695e2a6b25ca4fb9238abba.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\Fav\Temp\f97affa6\res\8017958b2b2dc2af52468ee15c685cac.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\File\2024-09\MISC.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 33.6654
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\File\2024-09\CAB.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 260.51
+		PageNo = 5
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = true
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\Fav\Temp\f6836d03\res\94b04d9f1de29f94c7bc65a0002876b1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 744.75
+		PageNo = 5
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Downloads\2209.04747v5.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 763.059
+		PageNo = 8
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Text Generation\Open Domain DIalogue\ACL2024 PlatoLM Teaching LLMs in Multi-Round Dialogue via a User Simulator.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 131.9
+		PageNo = 1
+		Zoom = 66.67
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Text Generation\Text Diffusion Models\Non-Autoregressive\IJCAI2023 Diffusion Models for Non-autoregressive Text Generation A Survey.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 683.271
+		PageNo = 2
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Downloads\归档\(4.3.1)--鎺堣鏂囨。PDF.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 50
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Downloads\归档\(3.5.1)--鎺堣鏂囨。PDF.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 73.1779
+		PageNo = 5
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Downloads\归档\(2.4.1)--鎺堣鏂囨。PDF.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 218.813
+		PageNo = 1
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Downloads\归档\(6.1.1)--鎺堣鏂囨。PDF.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Downloads\归档\(5.4.1)--鎺堣鏂囨。PDF.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 420.376
+		PageNo = 42
+		Zoom = 50
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Text Generation\Open Domain DIalogue\ACL2024 Zero-Shot Cross-Domain Dialogue State Tracking via Dual Low-Rank Adaptation.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Learning-Materials\AI\Papers\NLP\Text Generation\Open Domain DIalogue\2024 An End-to-End Model for Photo-Sharing Multi-modal Dialogue Generation.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = true
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Downloads\202319计算机信息工程学院学生综合素质考评实施细则(1).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 115.625
+		PageNo = 12
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\吴存远比赛\比赛证明材料\统计建模获奖证书.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 970 412 1316 1704
+		ShowToc = false
+		SidebarDx = 593
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+]
+SessionData [
+	[
+		TabStates [
+			[
+				FilePath = D:\Learning-Materials\CS\Graphics\fundamentals-of-computer-graphics-fourth-edition.pdf
+				DisplayMode = continuous
+				PageNo = 155
+				Zoom = 150
+				Rotation = 0
+				ScrollPos = -1 456.625
+				ShowToc = false
+			]
+			[
+				FilePath = D:\Learning-Materials\AI\Papers\NLP\Sentiment\SEEK.pdf
+				DisplayMode = continuous
+				PageNo = 1
+				Zoom = 200
+				Rotation = 0
+				ScrollPos = 50.3439 310.031
+				ShowToc = false
+			]
+			[
+				FilePath = D:\Learning-Materials\CS\Compilor\Engineering A Compiler 2nd Edition by Cooper and Torczon.pdf
+				DisplayMode = continuous
+				PageNo = 129
+				Zoom = 300
+				Rotation = 0
+				ScrollPos = 158.438 100.438
+				ShowToc = false
+			]
+			[
+				FilePath = D:\Learning-Materials\CS\Organization&Architecture\Computer Systems A Programmer’s Perspective (Randal E. Bryant etc.) (Z-Library).pdf
+				DisplayMode = continuous
+				PageNo = 38
+				Zoom = 150
+				Rotation = 0
+				ScrollPos = -1 202.125
+				ShowToc = false
+			]
+			[
+				FilePath = \\wsl.localhost\Ubuntu-22.04\home\wcy_ubuntu\Projects\Architecture\CSAPP-Lab\data-lab\datalab.pdf
+				DisplayMode = continuous
+				PageNo = 1
+				Zoom = 125
+				Rotation = 0
+				ScrollPos = -1 702.45
+				ShowToc = false
+			]
+			[
+				FilePath = D:\Learning-Materials\CS\Compilor\CS143\handouts\PA3.pdf
+				DisplayMode = continuous
+				PageNo = 4
+				Zoom = fit width
+				Rotation = 0
+				ScrollPos = -1 193.287
+				ShowToc = false
+			]
+			[
+				FilePath = D:\Learning-Materials\CS\Compilor\(global edition) Compilers Principles, Techniques, and Tools (A.V. Aho, Monica S Lam, R. Sethi etc.).pdf
+				DisplayMode = continuous
+				PageNo = 229
+				Zoom = 200
+				Rotation = 0
+				ScrollPos = 69.2814 126.094
+				ShowToc = false
+			]
+			[
+				FilePath = C:\Users\wcy\Desktop\王珊-数据库系统概论（第6版）\数据库系统概论 第6版 王珊 杜小勇 陈红 .pdf
+				DisplayMode = continuous
+				PageNo = 100
+				Zoom = fit width
+				Rotation = 0
+				ScrollPos = -1 58.3357
+				ShowToc = false
+			]
+			[
+				FilePath = D:\Learning-Materials\AI\Papers\Deep Learning\Diffusion\[2024]Tutorial on Diffusion Models for Imaging and Vision.pdf
+				DisplayMode = continuous
+				PageNo = 2
+				Zoom = 200
+				Rotation = 0
+				ScrollPos = 35.7189 363.094
+				ShowToc = false
+			]
+		]
+		TabIndex = 3
+		WindowState = 2
+		WindowPos = 1568 11 1316 1704
+		SidebarDx = 593
+	]
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 722
+
+# Settings below are not recognized by the current version

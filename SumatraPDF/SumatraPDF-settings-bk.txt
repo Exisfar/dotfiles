@@ -1,0 +1,761 @@
+﻿# For documentation, see https://www.sumatrapdfreader.org/settings/settings3-5-1.html
+Theme = Light
+FixedPageUI [
+	TextColor = #000000
+	BackgroundColor = #ffffff
+	SelectionColor = #f5fc0c
+	WindowMargin = 2 4 2 4
+	PageSpacing = 4 4
+	InvertColors = false
+	HideScrollbars = false
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = false
+]
+
+SelectionHandlers [
+]
+ExternalViewers [
+]
+
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+Annotations [
+	HighlightColor = #ffff00
+	UnderlineColor = #00ff00
+	SquigglyColor = #ff00ff
+	StrikeOutColor = #ff0000
+	FreeTextColor = 
+	FreeTextSize = 12
+	FreeTextBorderWidth = 1
+	TextIconColor = 
+	TextIconType = 
+	DefaultAuthor = 
+]
+
+RememberOpenedFiles = true
+RememberStatePerDocument = true
+RestoreSession = true
+UiLanguage = en
+EnableTeXEnhancements = false
+DefaultDisplayMode = automatic
+DefaultZoom = fit page
+Shortcuts [
+]
+EscToExit = false
+ReuseInstance = false
+ReloadModifiedDocuments = true
+
+MainWindowBackground = #80fff200
+FullPathInTitle = false
+ShowMenubar = true
+ShowToolbar = true
+ShowFavorites = false
+ShowToc = true
+NoHomeTab = false
+TocDy = 0
+SidebarDx = 557
+ToolbarSize = 18
+TabWidth = 300
+TreeFontSize = 0
+TreeFontWeightOffset = 0
+TreeFontName = automatic
+SmoothScroll = false
+ShowStartPage = true
+CheckForUpdates = true
+WindowState = 2
+WindowPos = 2968 -18 1509 1377
+UseTabs = true
+UseSysColors = false
+CustomScreenDPI = 0
+
+FileStates [
+	[
+		FilePath = \\wsl.localhost\Ubuntu-22.04\home\exisfar\Projects\Course\fundamentals-of-computer-system\MIT6.1810-2024-OS\lecture-materials\book-riscv-rev4.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 138.51
+		PageNo = 43
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 2968 -18 1509 1377
+		ShowToc = true
+		SidebarDx = 557
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 18 29
+	]
+	[
+		FilePath = D:\Projects\软工实验作业\文档模板1-开源软件的质量分析报告文档.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 4
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 719.422
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 2968 -18 1509 1377
+		ShowToc = true
+		SidebarDx = 557
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 1
+	]
+	[
+		FilePath = D:\Materials\Learning-Materials\CS\OS\Operating System Concepts\Operating-System-Concepts-10th-2018.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 285.167
+		PageNo = 419
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 2968 -18 1509 1377
+		ShowToc = true
+		SidebarDx = 557
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Materials\Learning-Materials\CS\OS\Operating System Concepts\Study-Guide.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 581 -54 1509 1377
+		ShowToc = false
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Materials\Learning-Materials\CS\OS\Operating Systems Three Easy Pieces (version 1.10) (Remzi H. Arpaci-Dusseau etc.) (Z-Library).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 600.2
+		PageNo = 130
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 581 -54 1509 1377
+		ShowToc = false
+		SidebarDx = 557
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Materials\Learning-Materials\CS\Graphics\fundamentals-of-computer-graphics-fourth-edition.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 7
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 4.37525 158.625
+		PageNo = 16
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 2968 -18 1509 1377
+		ShowToc = true
+		SidebarDx = 557
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Materials\Learning-Materials\AI\Books\机器学习 周志华\机器学习 周志华.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 9
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 79.3753
+		PageNo = 93
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 2968 -18 1509 1377
+		ShowToc = false
+		SidebarDx = 557
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Materials\Learning-Materials\Mathematics\Discrete Mathematics\Book\Discrete-Mathematics-and-Its-Applications.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 9
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 614.25
+		PageNo = 1
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 2968 -18 1509 1377
+		ShowToc = false
+		SidebarDx = 557
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Materials\Learning-Materials\CS\System\Computer Systems A Programmer’s Perspective (Randal E. Bryant etc.) (Z-Library).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 9
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 304.598
+		PageNo = 41
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 2968 -18 1509 1377
+		ShowToc = true
+		SidebarDx = 557
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 5
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\Diffusion_for_empathetic_response_generation_思路.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 23.4004
+		PageNo = 15
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 581 -54 1509 1377
+		ShowToc = false
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Materials\Learning-Materials\Mathematics\Discrete Mathematics\Book\Concrete_Mathematics_-_R._Graham,_D._Knuth,_O._Patashnik.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 210.167
+		PageNo = 13
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 485 -15 1509 1377
+		ShowToc = false
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Zotero\storage\UBU455SH\Huang 等 - 2023 - Diffusion-based Generation, Optimization, and Planning in 3D Scenes.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 3
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 485 -15 1509 1377
+		ShowToc = true
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\1811.00207v5.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 45.1253
+		PageNo = 1
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 485 -15 1509 1377
+		ShowToc = false
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Downloads\ACL2023 DiffusEmp A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 37.167
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 485 -15 1509 1377
+		ShowToc = false
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Downloads\2412.19437v2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 485 -15 1509 1377
+		ShowToc = true
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Materials\Learning-Materials\Papers\Deep Learning\NN\Diffusion\Diffusion2024\2024 Diffusion Forcing Next-token Prediction Meets Full-Sequence Diffusion.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 504.6
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 485 -15 1509 1377
+		ShowToc = true
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Materials\Learning-Materials\Papers\Deep Learning\NN\Diffusion\Diffusion2024\2024 Alignment of Diffusion Models Fundamentals, Challenges, and Future.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 98.2004
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 485 -15 1509 1377
+		ShowToc = true
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Materials\Learning-Materials\Papers\Deep Learning\NN\Diffusion\Explanation\2024 Tutorial on Diffusion Models for Imaging and Vision.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 485 -15 1509 1377
+		ShowToc = true
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Materials\Learning-Materials\Papers\Deep Learning\NN\Diffusion\Model Compression\ICLR-2024-Würstchen-An-Efficient-Architecture-for-Large-Scale-Text-to-Image-Diffusion-Models.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 485 -15 1509 1377
+		ShowToc = true
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\Diffusion Forcing\NeuralPS2020 Language Models are Few-Shot Learners.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 121.726
+		PageNo = 2
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 485 -15 1509 1377
+		ShowToc = true
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\NeurlPS2023 Scan and Snap Understanding Training Dynamics and Token Composition in 1-layer Transformer.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 485 -15 1509 1377
+		ShowToc = true
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\NeurIPS2024-speedloader-an-io-efficient-scheme-for-heterogeneous-and-distributed-llm-operation-Paper-Conference.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 69.6253 56.8753
+		PageNo = 1
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 485 -15 1509 1377
+		ShowToc = true
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\2024 Hi Model, generating 'nice' instead of 'good' is not as bad as generating 'rice'! Towards Context and Semantic Infused Dialogue Generation Loss Function and Evaluation Metric.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 88.6253 27.6252
+		PageNo = 1
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 485 -15 1509 1377
+		ShowToc = true
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\2025 Neural Network Diffusion.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 13.0372
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 485 -15 1509 1377
+		ShowToc = true
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\ICML2024 DiffAug Enhance Unsupervised Contrastive Learning with Domain-Knowledge-Free Diffusion-based Data Augmentation.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 485 -15 1509 1377
+		ShowToc = false
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\NeurIPS2024-dynamic-tuning-towards-parameter-and-inference-efficiency-for-vit-adaptation-Paper-Conference.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 7.76382
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 485 -15 1509 1377
+		ShowToc = true
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\NeuralPS2024 Diffusion Forcing Next-token Prediction Meets Full-Sequence Diffusion.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 299.848
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 485 -15 1509 1377
+		ShowToc = true
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\ICML2024 Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 53.3753
+		PageNo = 1
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 485 -15 1509 1377
+		ShowToc = false
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Desktop\Diffusion Forcing\NeuralPS2024 Diffusion Forcing Next-token Prediction Meets Full-Sequence Diffusion.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 485 -15 1509 1377
+		ShowToc = false
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wcy\Documents\WeChat Files\wxid_e868fzerotzz32\FileStorage\File\2025-03\初稿 (1).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 52.8337 729.167
+		PageNo = 87
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 3557 0 1572 1377
+		ShowToc = false
+		SidebarDx = 432
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+]
+SessionData [
+	[
+		TabStates [
+			[
+				FilePath = D:\Materials\Learning-Materials\CS\System\Computer Systems A Programmer’s Perspective (Randal E. Bryant etc.) (Z-Library).pdf
+				DisplayMode = continuous
+				PageNo = 41
+				Zoom = fit width
+				Rotation = 0
+				ScrollPos = -1 304.598
+				ShowToc = true
+				TocState = 5
+			]
+			[
+				FilePath = D:\Materials\Learning-Materials\AI\Books\机器学习 周志华\机器学习 周志华.pdf
+				DisplayMode = continuous
+				PageNo = 93
+				Zoom = 200
+				Rotation = 0
+				ScrollPos = -1 79.3753
+				ShowToc = false
+			]
+			[
+				FilePath = D:\Materials\Learning-Materials\Mathematics\Discrete Mathematics\Book\Discrete-Mathematics-and-Its-Applications.pdf
+				DisplayMode = continuous
+				PageNo = 1
+				Zoom = 100
+				Rotation = 0
+				ScrollPos = -1 614.25
+				ShowToc = false
+			]
+			[
+				FilePath = D:\Materials\Learning-Materials\CS\Graphics\fundamentals-of-computer-graphics-fourth-edition.pdf
+				DisplayMode = continuous
+				PageNo = 16
+				Zoom = 200
+				Rotation = 0
+				ScrollPos = 4.37525 158.625
+				ShowToc = true
+			]
+			[
+				FilePath = D:\Materials\Learning-Materials\CS\OS\Operating System Concepts\Operating-System-Concepts-10th-2018.pdf
+				DisplayMode = continuous
+				PageNo = 419
+				Zoom = 150
+				Rotation = 0
+				ScrollPos = -1 285.167
+				ShowToc = true
+			]
+			[
+				FilePath = \\wsl.localhost\Ubuntu-22.04\home\exisfar\Projects\Course\fundamentals-of-computer-system\MIT6.1810-2024-OS\lecture-materials\book-riscv-rev4.pdf
+				DisplayMode = continuous
+				PageNo = 43
+				Zoom = fit width
+				Rotation = 0
+				ScrollPos = -1 138.51
+				ShowToc = true
+				TocState = 18 29
+			]
+		]
+		TabIndex = 7
+		WindowState = 2
+		WindowPos = 2968 -18 1509 1377
+		SidebarDx = 557
+	]
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 740
+
+# Settings below are not recognized by the current version
